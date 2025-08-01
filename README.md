@@ -1,0 +1,2 @@
+# Generative-AI-Q-A-system-utilizing-a-novel-data-model-and-LLMs-on-Google-Cloud-Vertex-AI
+A Generative AI-powered Question-Answering (Q&amp;A) system that leverages a novel data model and Large Language Models (LLMs) on Google Cloud's Vertex AI. The system is designed to provide accurate and contextual answers by retrieving information from external documents, thereby minimizing hallucinations and ensuring grounded responses.
